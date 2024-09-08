@@ -1,0 +1,422 @@
+*{
+    margin : 0% auto;
+    padding : 0%;
+    box-sizing: border-box; 
+}
+#d1{
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    height: 130px;
+}
+.i1{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 17px;
+    left: 70px;
+}
+.nav{
+    display: inline-flex;
+    margin-left: 30px;
+}
+.ullu{
+    margin-left: 800px;
+    position: absolute;
+    top: 50px;
+}
+.btn1{
+    background-color: white;
+    border: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 25px;
+    width: 80px;
+}
+.btn1-hi{
+    background-color: white;
+    border: none;
+    color: rgb(204, 190, 190);
+}
+.btn1:hover{
+    color: rgb(106, 108, 102);
+}
+.btn1-hi:hover{
+    color: rgb(106, 108, 102);
+}
+#d2{
+    width: 100%;
+    height: 800px;
+    position: absolute;
+    top: 140px;
+    background-image: url(./Ray\ 1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 150%;
+    background-position: center;
+    background-attachment: fixed;
+}
+.d2dd1,.d2first{
+    height: 80px;
+    width: 450px;
+    margin-left: 170px;
+    position: absolute;
+    top: 80px;
+}
+.d2dd1{
+    background-color: white;
+    opacity: 0.5;
+}
+.d2first{
+    font-size: 26px;
+    padding-top: 1.5%;
+    padding-left: 2%;
+}
+.d2dd2,.d2second{
+    height: 80px;
+    width: 700px;
+    margin-left: 170px;
+    position: absolute;
+    top: 200px;
+}
+.d2dd2{
+    background-color: white;
+    opacity: 0.5;
+}
+.d2second{
+    font-size: 17.5px;
+    padding-top: 1.5%;
+    padding-left: 2%;
+}
+#d3{
+    height: 400px;
+    margin-top: 535px;
+    background-color: white;
+    z-index: 1;
+    opacity: 0.99;
+}
+#d3h1{
+    height: 80px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    font-size: 22px;
+    top: 700px;
+    left: 220px;
+}
+#d3p{
+    height: 200px;
+    width: 880px;
+    margin-top: 650px;
+    display: flex;
+    justify-content: center;
+    align-items: center;padding-top: 12%;   
+}
+
+#d4{
+    height: 600px;
+    width: 100%;
+    background-image: url(./Ray\ 2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 150%;
+    background-position: center;
+    background-attachment: fixed;
+}
+.d4spn2,.d4spn1{
+    height: 80px;
+    width: 700px;
+    margin-left: 170px;
+    position: absolute;
+    top: 1170px;
+}
+.d4spn1{
+    background-color: white;
+    opacity: 0.5;
+}
+.d4spn2{
+    font-size: 26px;
+    padding-top: 1.5%;
+    padding-left: 2%;
+}
+#d5{
+    height: 400px;
+    background-color: white;
+}
+#d5h1{
+    height: 80px;
+    width: 600px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 1680px;
+    left: 250px;
+}
+#d5p1{
+    height: 200px;
+    width: 880px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 8%;   
+}
+#d5p2{
+    height: 200px;
+    width: 880px;
+    position: absolute;
+    top: 1880px;
+    left: 320px;
+}
+#d6{
+    height: 600px;
+    width: 100%;
+    background-image: url(./Ray\ 3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 150%;
+    background-position: center;
+    background-attachment: fixed;
+}
+#d6st1,#d6st2{
+    height: 80px;
+    width: 210px;
+    margin-left: 170px;
+    position: absolute;
+    top: 2200px;
+}
+#d6st1{
+    background-color: white;
+    opacity: 0.5;
+}
+#d6st2{
+    font-size: 30px;
+    padding-top: 1.5%;
+    padding-left: 2%;
+}
+#d7{
+    height: 400px;
+    background-color: white;
+}
+#d7h1{
+    height: 80px;
+    width: 600px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 2680px;
+    left: 275px;
+}
+#d7p1{
+    height: 200px;
+    width: 880px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 6%;   
+}
+#d7p2{
+    height: 200px;
+    width: 880px;
+    position: absolute;
+    top: 2860px;
+    left: 320px;
+}
+#d8{
+    height: 600px;
+    width: 100%;
+    background-image: url(./Ray\ 4.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 150%;
+    background-position: center;
+    background-attachment: fixed;
+}
+#d8nan1,#d8nan2{
+    height: 80px;
+    width: 280px;
+    margin-left: 170px;
+    position: absolute;
+    top: 3200px;
+}
+#d8nan1{
+    background-color: white;
+    opacity: 0.5;
+}
+#d8nan2{
+    font-size: 30px;
+    padding-top: 1.5%;
+    padding-left: 2%;
+}
+#d9{
+    height: 500px;
+    background-color: white;
+}
+#d9h1{
+    height: 80px;
+    width: 600px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 3700px;
+    left: 275px;
+}
+#d9p1{
+    height: 200px;
+    width: 880px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 30px;
+    padding-top: 4%;   
+}
+#d9h2{
+    height: 80px;
+    width: 600px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 3800px;
+    left: 275px;
+}
+#d9p2{
+    height: 200px;
+    width: 880px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 30px;
+    margin-top: -70px;  
+}
+#d9h3{
+    height: 80px;
+    width: 600px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 3895px;
+    left: 245px;
+}
+#d9p3{
+    height: 200px;
+    width: 880px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 30px;
+    margin-top: -100px;  
+}
+#d10{
+    height: 600px;
+    width: 100%;
+    background-image: url(./Ray\ 5.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 150%;
+    background-position: center;
+    background-attachment: fixed;
+}
+#d10sd1,#d10sd2{
+    height: 80px;
+    width: 200px;
+    margin-left: 170px;
+    position: absolute;
+    top: 4300px;
+}
+#d10sd1{
+    background-color: white;
+    opacity: 0.5;
+}
+#d10sd2{
+    font-size: 30px;
+    padding-top: 1.5%;
+    padding-left: 2%;
+}
+#d11{
+    height: 1200px;
+}
+.lado{
+    height: 370px;
+    width: 470px;
+    padding: 10%;
+}
+.hippo1{
+    margin-top: -800px;
+    margin-left: 100px;
+}
+.hippo2{
+    margin-top: -22px;
+    margin-left: 574px;
+}
+.hippo3{
+    margin-top: -21px;
+    margin-left: 1045px;
+}
+.hippo4{
+    margin-top: 355px;
+    margin-left: 100px;
+}
+.hippo5{
+    margin-top: -22px;
+    margin-left: 574px;
+}
+.hippo6{
+    margin-top: -21px;
+    margin-left: 1045px;
+}
+.hippo7{
+    margin-top: 355px;
+    margin-left: 100px;
+}
+#d12{
+    border: 2px solid;
+    height: 200px;
+    color: rgb(154, 154, 154);
+    background-color: rgb(35, 35, 35);
+}
+.kal2,.kal3,.kal4{
+    height: 40px;
+    width: 500px;
+}
+.kal1{
+    height: 40px;
+    width: 250px;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.kal2{
+    margin-top: -30px;
+    margin-left: 540px;
+}
+.kal3{
+    margin-top: -15px;
+    margin-left: 540px;
+}
+.kal4{
+    margin-top: -65px;
+    margin-left: 1000px;
+}
+.hi{
+    border: none;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    margin-left: 50%;
+    background-color: rgb(197, 197, 197);
+    position: absolute;
+    top: 5925px;
+}
+.hoo{
+    border: 2px solid;
+    border-radius: 100%;
+    height: 10px;
+    width: 10px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
